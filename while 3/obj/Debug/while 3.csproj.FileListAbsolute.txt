@@ -1,0 +1,10 @@
+C:\Users\emira\OneDrive\Masaüstü\yezda\Yezda Açık\while 3\while 3\bin\Debug\while 3.exe.config
+C:\Users\emira\OneDrive\Masaüstü\yezda\Yezda Açık\while 3\while 3\bin\Debug\while 3.exe
+C:\Users\emira\OneDrive\Masaüstü\yezda\Yezda Açık\while 3\while 3\bin\Debug\while 3.pdb
+C:\Users\emira\OneDrive\Masaüstü\yezda\Yezda Açık\while 3\while 3\obj\Debug\while 3.csproj.AssemblyReference.cache
+C:\Users\emira\OneDrive\Masaüstü\yezda\Yezda Açık\while 3\while 3\obj\Debug\while_3.Form1.resources
+C:\Users\emira\OneDrive\Masaüstü\yezda\Yezda Açık\while 3\while 3\obj\Debug\while_3.Properties.Resources.resources
+C:\Users\emira\OneDrive\Masaüstü\yezda\Yezda Açık\while 3\while 3\obj\Debug\while 3.csproj.GenerateResource.cache
+C:\Users\emira\OneDrive\Masaüstü\yezda\Yezda Açık\while 3\while 3\obj\Debug\while 3.csproj.CoreCompileInputs.cache
+C:\Users\emira\OneDrive\Masaüstü\yezda\Yezda Açık\while 3\while 3\obj\Debug\while 3.exe
+C:\Users\emira\OneDrive\Masaüstü\yezda\Yezda Açık\while 3\while 3\obj\Debug\while 3.pdb
